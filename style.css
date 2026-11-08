@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  color: #222;
+}
+h1 {
+  color: #1a1a1a;
+}
+.updated {
+  background: #fff3a3;
+  color: #1b6b1b;
+  font-size: 28px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding: 8px 12px;
+  border: 2px solid red;
+  display: inline-block;
+}
